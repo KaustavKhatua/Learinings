@@ -4,7 +4,7 @@
 3. [How to Convert a Python File to Jupyter Notebook](#how-to-convert-a-python-file-to-jupyter-notebook)
 4. [Useful Links](#useful-links)
 5. [Linux Related](#linux-related)
-     1. [How to generate PDF from .tex files in Ubuntu](#how-to-generate-pdf-from-.tex-files-in-ubuntu).
+     1. [How to generate PDF from .tex files in Ubuntu](#how-to-generate-pdf-from-latex-files-in-ubuntu).
 
 
 ### How to Get Last Few Lines from a CSV File Using Windows PowerShell
@@ -61,7 +61,7 @@ For base Python:
 
 
 ### Linux Related
-#### How to generate PDF from .tex files in Ubuntu
+#### How to generate PDF from Latex files in Ubuntu
 
 
 
