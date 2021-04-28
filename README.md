@@ -3,6 +3,8 @@
 2. [How to Create New Column Using Existing Two or More Columns in Pandas with apply Function](#how-to-create-new-column-using-existing-two-or-more-columns-in-pandas-with-apply-Function)
 3. [How to Convert a Python File to Jupyter Notebook](#how-to-convert-a-python-file-to-jupyter-notebook)
 4. [Useful Links](#useful-links)
+5. [Linux Related](#linux-related)
+     1. How to generate PDF from .tex files in Ubuntu.
 
 
 ### How to Get Last Few Lines from a CSV File Using Windows PowerShell
@@ -56,5 +58,9 @@ For base Python:
 
 ### Useful Links
 - Basics of writing Markdown files by Microsoft. [Link](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#:~:text=Paragraphs%20and%20line%20breaks,-Supported%20in%3A%20Definition&text=In%20a%20Markdown%20file%20or,text%20on%20a%20new%20line.)
+
+
+### Linux Related
+
 
 
